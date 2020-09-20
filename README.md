@@ -50,4 +50,4 @@ Please note that using Colaboratory for cryptocurrency mining is disallowed enti
 
 <sub>Source: https://research.google.com/colaboratory/faq.html</sub>
 
-### Maintained By : [Rishabh Singh](https://github.com/r12habh)
+### Maintained By : [Rishabh Singh](https://www.linkedin.com/in/singh-rishabh/)
