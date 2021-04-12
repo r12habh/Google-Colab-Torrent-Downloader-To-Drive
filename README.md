@@ -15,6 +15,7 @@ Version 3 -
 Version 2 - 
 <a href="https://colab.research.google.com/github/spireon-ex10/Torrent-To-Google-Drive-Downloader/blob/master/Torrent_To_Google_Drive_Downloader_v2.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 <br><br><br>
+_⚠Always try to use magnet links to download torrent._
 
 ### Tutorial
 1. Click the badge which says 'Open in Colab'.
